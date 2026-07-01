@@ -139,6 +139,8 @@ Currently, I'm working as a **Full Stack Developer** at **Delimp Technology**, w
 
 💼 **LinkedIn:** https://www.linkedin.com/in/akash-singh-3028951b5/
 
+📱 **Mobile:** +91 9990885804
+
 🌐 **Portfolio:** Coming Soon
 
 ---
