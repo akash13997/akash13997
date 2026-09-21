@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | MERN Stack | React.js | Next.js | Node.js
 
-I'm a passionate **Full Stack Developer** with **3.5+ years of experience** building scalable, responsive, and high-performance web applications.
+I'm a passionate **Full Stack Developer** with **3.6+ years of experience** building scalable, responsive, and high-performance web applications.
 
 I specialize in creating modern web applications using **React.js, Next.js, Node.js, Express.js, MongoDB, and TypeScript**. I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning new technologies.
 
