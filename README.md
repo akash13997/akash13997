@@ -141,7 +141,7 @@ Currently, I'm working as a **Full Stack Developer** at **Delimp Technology**, w
 
 📱 **Mobile:** +91 9990885804
 
-🌐 **Portfolio:** Coming Soon
+🌐 **Portfolio:** https://akashsingh13997.netlify.app/
 
 ---
 
